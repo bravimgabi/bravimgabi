@@ -1,4 +1,4 @@
-- 👋 Hi, Welcome to mt profile, my name is Gabriela and my nickname is gabi
+- 👋 Hi, Welcome to mt profile, my name is Gabriela, I'm 25 years old and live in Rio de Janeiro, Brazil
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Python
 - 📖 I have a bachelor's degree in Industrial Chemistry and a Master's degree in Geosciences.
